@@ -1,0 +1,55 @@
+main{
+    position: absolute;
+    width: 400px;
+    height: 300px;
+    z-index: 15;
+    top: 30%;
+    left: 50%;
+    margin: -100px 0 0 -150px;
+    background-color: rgb(186, 186, 250);  
+    text-align: center;
+}
+
+h3 {
+    text-align: left;
+    
+}
+.class1{
+    background-color: rgb(157, 255, 0);
+    text-align: left;
+    margin: -1px;
+    padding-left: 20px;
+    border: 0;
+}
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(157, 255, 0);
+    justify-content: space-around;
+    padding: 25px 25px;
+    height: 25px;
+}
+.class2{
+    background-color: rgb(157, 255, 0);
+    text-align: left;
+    margin: -1px;
+    padding-left: 20px;
+    border: 0;
+}
+.password, .email{
+    width: 300px;
+    
+}
+.image{
+   text-align: center;
+   top: 10%;
+   background-color: rgb(186, 186, 250);
+}
+
+.button{
+    width: 300px;
+}
+
+.h6tag {
+    margin: 0;
+}
